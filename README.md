@@ -1,6 +1,6 @@
 # AgileSoftwareDevelopment
 
-This repository contains code that was developed as part of the Agile Software Development module of the H.Dip in SOftware Development at GMIT.
+This repository contains code that was developed as part of the Agile Software Development module of the H.Dip in Software Development at GMIT.
 
 ## Project
 
